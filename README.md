@@ -3,9 +3,9 @@
 
 ### My activity
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyachka)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danyachka&theme=solarized_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danyachka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danyachka&theme=solarized_dark)   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danyachka&theme=solarized_dark)
 <!--
 **danyachka/danyachka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
